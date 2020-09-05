@@ -57,7 +57,6 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 * Create a `.sql` file of your queries.
 
-* (Optional) Create a Jupyter Notebook of the bonus analysis.
 
 
 
